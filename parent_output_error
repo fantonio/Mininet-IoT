@@ -1,0 +1,13 @@
+{다음 사용 중 오류가 발생함: trustnleqn (line 28)
+Objective function is returning undefined values at initial point. FSOLVE
+cannot continue.
+
+오류 발생: fsolve (line 388)
+        trustnleqn(funfcn,x,verbosity,gradflag,options,defaultopt,f,JAC,...
+} 
+Traceback (most recent call last):
+  File "/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/main.py", line 15, in <module>
+    import flow.function_allocation_REST_flow
+  File "/home/byounguklee/mininet/con_python/cloud/Rest_API_Python/HttpClient/flow/function_allocation_REST_flow.py", line 6, in <module>
+    from HttpClient.flow import function_routing_rule_post_flow
+ImportError: No module named HttpClient.flow
