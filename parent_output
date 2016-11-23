@@ -12,424 +12,1269 @@ Unrecognized MATLAB option "l_nonlim.m".
 
 	Academic License
 
->> >> >> >> >> >> >> >> >> >> >> >> >> [경고: 무한대 값 또는 NAN(Not-a-Number) 값이 발생했습니다.] 
-[> In integralCalc/midpArea (line 397)
-  In integralCalc (line 105)
-  In integral (line 88)
-  In @(x)[((-mu_prime)+x(1)+x(2)*((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2))));(-sigma_prime.^2+x(2).^2*(1+(-x(1)/x(2))*((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2))))-x(2).^2*(((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2)))).^2)]
-  In fsolve (line 230)] 
-[경고: 무한대 값 또는 NAN(Not-a-Number) 값이 발생했습니다.] 
-[> In integralCalc/midpArea (line 397)
-  In integralCalc (line 105)
-  In integral (line 88)
-  In @(x)[((-mu_prime)+x(1)+x(2)*((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2))));(-sigma_prime.^2+x(2).^2*(1+(-x(1)/x(2))*((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2))))-x(2).^2*(((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2)))).^2)]
-  In fsolve (line 230)] 
-[경고: 무한대 값 또는 NAN(Not-a-Number) 값이 발생했습니다.] 
-[> In integralCalc/midpArea (line 397)
-  In integralCalc (line 105)
-  In integral (line 88)
-  In @(x)[((-mu_prime)+x(1)+x(2)*((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2))));(-sigma_prime.^2+x(2).^2*(1+(-x(1)/x(2))*((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2))))-x(2).^2*(((1/(sqrt(2*pi)))*exp(-0.5*(-x(1)/x(2)).^2))/(1-integral(@(t)(1/(sqrt(2*pi)))*exp(-0.5*t.^2),-inf,-x(1)/x(2)))).^2)]
-  In fsolve (line 230)] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> 
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the default value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+
+
 >> >> >> >> >> >> >> >> >> [[['250']], [['250']], [['250']], [['250']]]
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-[['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']]
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['192.0.0.31/32', '192.0.0.41/32', '5']
-['1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']
-[['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000'], ['192.0.0.31/32', '192.0.0.41/32', '0.000000', '0.000000']]
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
-['0.000000', '0.000000', '5']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+[['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']]
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['10.0.0.3/32', '10.0.0.4/32', '5']
+['1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']
+[['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736'], ['10.0.0.3/32', '10.0.0.4/32', '4.392875', '2.627736']]
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
+['4.392875', '2.627736', '5']
 ['']
 0
 0
 0
 0
-0.0
-['0.000000', '0.000000', '192.0.0.31/32', '192.0.0.41/32']
+320.679875
+['4.392875', '2.627736', '10.0.0.3/32', '10.0.0.4/32']
 0
 0
 0
-0.0
+0
+length_path
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+number line
+73
+array ip_mean result
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+10.0.0.3 10.0.0.4 4.392875 2.627736
+arrayee ip_mean_!93 result
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+1930.0.3 1930.0.4 4.392875 2.627736
+array ip_mean result
+60000 60000
+60001 60001
+60002 60002
+60003 60003
+60004 60004
+60005 60005
+60006 60006
+60007 60007
+60008 60008
+60009 60009
+60010 60010
+60011 60011
+60012 60012
+60013 60013
+60014 60014
+60015 60015
+60016 60016
+60017 60017
+60018 60018
+60019 60019
+60020 60020
+60021 60021
+60022 60022
+60023 60023
+60024 60024
+60025 60025
+60026 60026
+60027 60027
+60028 60028
+60029 60029
+60030 60030
+60031 60031
+60032 60032
+60033 60033
+60034 60034
+60035 60035
+60036 60036
+60037 60037
+60038 60038
+60039 60039
+60040 60040
+60041 60041
+60042 60042
+60043 60043
+60044 60044
+60045 60045
+60046 60046
+60047 60047
+60048 60048
+60049 60049
+60050 60050
+60051 60051
+60052 60052
+60053 60053
+60054 60054
+60055 60055
+60056 60056
+60057 60057
+60058 60058
+60059 60059
+60060 60060
+60061 60061
+60062 60062
+60063 60063
+60064 60064
+60065 60065
+60066 60066
+60067 60067
+60068 60068
+60069 60069
+60070 60070
+60071 60071
+60072 60072
+array ip_link result
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+10.0.0.3 10.0.0.4 5
+iperf process kill
+10.0.0.1 kill

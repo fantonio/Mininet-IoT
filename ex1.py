@@ -48,7 +48,7 @@ class SDNProjectTopo(Topo):
         self.addLink(s3,s4,bw=500)
         self.addLink(s2,s3,bw=500)
 
-# making connection betweein my computer and virutal network
+# making connection between my computer and virutal network
 def connectToRootNS( network, switch, ip, routes):
 	root = Node('root', inNamespace=False)
 	intf = network.addLink(root,switch).intf1
@@ -83,7 +83,7 @@ if __name__=='__main__':
 	setLogLevel('info')
 
 	# python controller & server & client
-	os.system("sudo /home/byounguklee/mininet/con_python/run.sh")
+	#os.system("sudo /home/byounguklee/mininet/con_python/run.sh")
 
 	net=monitorTest()
 
