@@ -17,11 +17,11 @@ import sys
 class SDNProjectTopo(Topo):
     def build(self):
 #        Topo.__init__(self)
-        h1 = self.addHost('h1')
-        h2 = self.addHost('h2')
-        h3 = self.addHost('h3')
-        h4 = self.addHost('h4')
 
+        h1 = self.addHost('h1',ip='10.0.0.1/32',mac='82:ff:9c:90:7d:a1')
+        h2 = self.addHost('h2',ip='10.0.0.2/32',mac='82:ff:9c:90:7d:a2')
+        h3 = self.addHost('h3',ip='10.0.0.3/32',mac='82:ff:9c:90:7d:a3')
+        h4 = self.addHost('h4',ip='10.0.0.4/32',mac='82:ff:9c:90:7d:a4')
 
 #        h1.setIP('10.0.0.1')
 #        h2.setIP('10.0.0.2')
@@ -53,10 +53,26 @@ def connectToRootNS( network, switch, ip, routes):
 	root = Node('root', inNamespace=False)
 	intf = network.addLink(root,switch).intf1
 	root.setIP(ip, intf=intf)
+	root.setMAC('0a:b2:ee:19:37:16',intf=intf)
+	root.cmd('echo hook')
 	network.start()
+
 
 	for route in routes:
 		root.cmd( 'route add -net ' + route + ' dev ' + str( intf ) )
+
+
+
+"""	
+	root.setARP('10.0.0.1/32','82:ff:9c:90:7d:a1')
+	root.setARP('10.0.0.2/32','82:ff:9c:90:7d:a2')
+	root.setARP('10.0.0.3/32','82:ff:9c:90:7d:a3')
+	root.setARP('10.0.0.4/32','82:ff:9c:90:7d:a4')
+"""
+
+
+
+#	net.staticArp()
 
 
 
@@ -71,6 +87,9 @@ def monitorTest():
 def sshd( network, cmd='/usr/sbin/sshd', opts='-D -p 22'):
 	for host in network.hosts:
 		host.cmd( cmd + ' ' + opts + '&' )
+#		host.cmd('arp -s 10.123.123.1 0a:b2:ee:19:37:16')
+
+
 
 #	for ihost in network.hosts:
 			
@@ -94,14 +113,20 @@ if __name__=='__main__':
 
 
 	hosts=net.hosts
-	net.staticArp()
 
+	net.staticArp()
 	dumpNodeConnections(net.hosts)
 	net.pingAll()
-
 	CLI( net )
 	net.stop()
 
+
+"""
+	for host in net.hosts:
+		host.cmd('arp -s 10.123.123.1 0a:b2:ee:19:37:16')
+
+	os.system('arp -i root-eth0 -s 10.0.0.1/32 82:ff:9c:90:7d:a1')
+"""
 
 
 
