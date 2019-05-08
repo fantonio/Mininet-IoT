@@ -9,10 +9,8 @@ from functools import partial
 from mininet.node import Node
 from mininet.topolib import TreeTopo
 
-
 import os
 import sys
-
 
 class SDNProjectTopo(Topo):
     def build(self):
@@ -28,8 +26,6 @@ class SDNProjectTopo(Topo):
 #        h3.setIP('10.0.0.3')
 #        h4.setIP('10.0.0.4')
 
-        
-
         s1 = self.addSwitch('s1')
         s2 = self.addSwitch('s2')
         s3 = self.addSwitch('s3')
@@ -39,7 +35,6 @@ class SDNProjectTopo(Topo):
         self.addLink(s4,h4)
         self.addLink(s3,h3)
         self.addLink(s2,h2)
-
 
 # bandwidth link constraint need arguments '--link=tc' in mn command
         self.addLink(s1,s2,bw=500)
@@ -57,24 +52,15 @@ def connectToRootNS( network, switch, ip, routes):
 	root.cmd('echo hook')
 	network.start()
 
-
 	for route in routes:
 		root.cmd( 'route add -net ' + route + ' dev ' + str( intf ) )
-
-
-
 """	
 	root.setARP('10.0.0.1/32','82:ff:9c:90:7d:a1')
 	root.setARP('10.0.0.2/32','82:ff:9c:90:7d:a2')
 	root.setARP('10.0.0.3/32','82:ff:9c:90:7d:a3')
 	root.setARP('10.0.0.4/32','82:ff:9c:90:7d:a4')
 """
-
-
-
 #	net.staticArp()
-
-
 
 # making network 'net'
 def monitorTest():
@@ -82,22 +68,12 @@ def monitorTest():
 #	topo = TreeTopo(depth=1, fanout=4)
 	return Mininet(topo=topo,link=TCLink, controller=partial(RemoteController, ip='127.0.0.1', port=6633))
 
-
-
 def sshd( network, cmd='/usr/sbin/sshd', opts='-D -p 22'):
 	for host in network.hosts:
 		host.cmd( cmd + ' ' + opts + '&' )
 #		host.cmd('arp -s 10.123.123.1 0a:b2:ee:19:37:16')
-
-
-
 #	for ihost in network.hosts:
 			
-
-
-
-
-
 if __name__=='__main__':
 	setLogLevel('info')
 
@@ -105,21 +81,16 @@ if __name__=='__main__':
 	#os.system("sudo /home/byounguklee/mininet/con_python/run.sh")
 
 	net=monitorTest()
-
 	switch=net[ 's1' ]
 	routes = [ '10.0.0.0/24' ]
  	connectToRootNS( net, switch, '10.123.123.1/24', routes)
 	sshd(net)
-
-
 	hosts=net.hosts
-
 	net.staticArp()
 	dumpNodeConnections(net.hosts)
 	net.pingAll()
 	CLI( net )
 	net.stop()
-
 
 """
 	for host in net.hosts:
@@ -127,8 +98,5 @@ if __name__=='__main__':
 
 	os.system('arp -i root-eth0 -s 10.0.0.1/32 82:ff:9c:90:7d:a1')
 """
-
-
-
 
 #topos = {'mytopo':(lambda:SDNProjectTopo())}

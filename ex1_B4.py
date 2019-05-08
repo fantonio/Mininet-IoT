@@ -9,10 +9,8 @@ from functools import partial
 from mininet.node import Node
 from mininet.topolib import TreeTopo
 
-
 import os
 import sys
-
 
 class SDNProjectTopo(Topo):
     def build(self):
@@ -30,15 +28,10 @@ class SDNProjectTopo(Topo):
         h11 = self.addHost('h11')
         h12 = self.addHost('h12')
 
-
-
-
 #        h1.setIP('10.0.0.1')
 #        h2.setIP('10.0.0.2')
 #        h3.setIP('10.0.0.3')
 #        h4.setIP('10.0.0.4')
-
-        
 
         s1 = self.addSwitch('s1')
         s2 = self.addSwitch('s2')
@@ -53,9 +46,6 @@ class SDNProjectTopo(Topo):
         s11 = self.addSwitch('s11')
         s12 = self.addSwitch('s12')
 
-
-
-
         self.addLink(s1,h1)
         self.addLink(s2,h2)
         self.addLink(s3,h3)
@@ -68,7 +58,6 @@ class SDNProjectTopo(Topo):
         self.addLink(s10,h10)
         self.addLink(s11,h11)
         self.addLink(s12,h12)
-
 
 # bandwidth link constraint need arguments '--link=tc' in mn command
         self.addLink(s1,s2,bw=500)
@@ -91,20 +80,6 @@ class SDNProjectTopo(Topo):
         self.addLink(s10,s12,bw=500)
         self.addLink(s11,s12,bw=500)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # making connection between my computer and virutal network
 def connectToRootNS( network, switch, ip, routes):
 	root = Node('root', inNamespace=False)
@@ -115,26 +90,17 @@ def connectToRootNS( network, switch, ip, routes):
 	for route in routes:
 		root.cmd( 'route add -net ' + route + ' dev ' + str( intf ) )
 
-
-
 # making network 'net'
 def monitorTest():
 	topo = SDNProjectTopo()
 #	topo = TreeTopo(depth=1, fanout=4)
 	return Mininet(topo=topo,link=TCLink, controller=partial(RemoteController, ip='127.0.0.1', port=6633))
 
-
-
 def sshd( network, cmd='/usr/sbin/sshd', opts='-D -p 22'):
 	for host in network.hosts:
 		host.cmd( cmd + ' ' + opts + '&' )
 
 #	for ihost in network.hosts:
-			
-
-
-
-
 
 if __name__=='__main__':
 	setLogLevel('info')
@@ -149,7 +115,6 @@ if __name__=='__main__':
  	connectToRootNS( net, switch, '10.123.123.1/24', routes)
 	sshd(net)
 
-
 	hosts=net.hosts
 	net.staticArp()
 
@@ -158,9 +123,5 @@ if __name__=='__main__':
 
 	CLI( net )
 	net.stop()
-
-
-
-
 
 #topos = {'mytopo':(lambda:SDNProjectTopo())}
